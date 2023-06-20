@@ -3,7 +3,7 @@
     "contactCenter": "Contact center",
     "country": "Ukraine",
     "fax": "f.",
-    "location": "location"
+    "location": "1 Khreshchatyk Street, Kyiv"
   },
 
   "button": {
@@ -14,7 +14,7 @@
     "remove": "Remove",
     "edit": "Edit",
     "inputFile": {
-      "forAllStamps": "Attach image (to all images )",
+      "forAllStamps": "Attach image (to all attachments)",
       "forImage": "Attach image"
     }
   },
@@ -33,162 +33,316 @@
   "headerMenu": {
     "business": {
       "href": "#",
-      "text": "Link"
+      "text": "text"
     },
     "career": {
       "href": "#",
-      "text": "Link"
+      "text": "text"
     },
     "departments": {
       "href": "#",
-      "text": "Link"
+      "text": "text"
     },
     "mainPage": {
       "href": "#",
-      "text": "Link"
+      "text": "text"
     },
     "philately": {
-      "title": "#",
+      "title": "Philately",
       "column1": {
         "link1": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
         },
         "link2": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
         },
         "link3": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
+        },
+        "link4": {
+          "href": "#",
+          "text": "text"
         }
       },
       "column2": {
         "link1": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
         },
         "link2": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
         },
         "link3": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
+        }
+      },
+      "column3": {
+        "link1": {
+          "href": "#",
+          "text": "Personalized<br>stamps\n <span class=\"block-link\">Learn more</span>"
         }
       }
     },
     "services": {
-      "title": "Link",
+      "title": "Services",
       "column1": {
-        "title": "Link",
+        "title": "Postal services",
         "link1": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
         },
         "link2": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
         },
         "link3": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
+        },
+        "link4": {
+          "href": "#",
+          "text": "text"
+        },
+        "link5": {
+          "href": "#",
+          "text": "text"
+        },
+        "link6": {
+          "href": "#",
+          "text": "text"
+        },
+        "link7": {
+          "href": "#",
+          "text": "text"
+        },
+        "link8": {
+          "href": "#",
+          "text": "text"
+        },
+        "link9": {
+          "href": "#",
+          "text": "text"
+        },
+        "link10": {
+          "href": "#",
+          "text": "text"
+        },
+        "link11": {
+          "href": "#",
+          "text": "text"
+        },
+        "link12": {
+          "href": "#",
+          "text": "text"
+        },
+        "link13": {
+          "href": "#",
+          "text": "text"
+        },
+        "link14": {
+          "href": "#",
+          "text": "text"
         }
       },
       "column2": {
-        "title": "Link",
+        "title": "Services",
         "link1": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
         },
         "link2": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
         },
         "link3": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
+        },
+        "link4": {
+          "href": "#",
+          "text": "text"
+        },
+        "link5": {
+          "href": "#",
+          "text": "text"
+        },
+        "link6": {
+          "href": "#",
+          "text": "text"
+        },
+        "link7": {
+          "href": "#",
+          "text": "text"
         }
       },
       "column3": {
-        "title": "Link",
+        "title": "Financial services",
         "link1": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
         },
         "link2": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
         },
         "link3": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
+        },
+        "link4": {
+          "href": "#",
+          "text": "text"
+        },
+        "link5": {
+          "href": "#",
+          "text": "text"
+        },
+        "link6": {
+          "href": "#",
+          "text": "text"
+        },
+        "link7": {
+          "href": "#",
+          "text": "text"
+        },
+        "link8": {
+          "href": "#",
+          "text": "text"
+        },
+        "link9": {
+          "href": "#",
+          "text": "text"
+        },
+        "link10": {
+          "href": "#",
+          "text": "text"
+        },
+        "link11": {
+          "href": "#",
+          "text": "text"
+        },
+        "link12": {
+          "href": "#",
+          "text": "text"
+        },
+        "link13": {
+          "href": "#",
+          "text": "text"
         }
       },
       "column4": {
-        "title": "Link",
+        "title": "Other services",
         "link1": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
         },
         "link2": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
         },
         "link3": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
+        },
+        "link4": {
+          "href": "#",
+          "text": "text"
+        },
+        "link5": {
+          "href": "#",
+          "text": "text"
+        },
+        "link6": {
+          "href": "#",
+          "text": "text"
+        },
+        "link7": {
+          "href": "#",
+          "text": "text"
         }
       }
     },
     "tariffs": {
-      "title": "Link",
+      "title": "Prices",
       "column1": {
         "link1": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
         },
         "link2": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
         },
         "link3": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
+        },
+        "link4": {
+          "href": "#",
+          "text": "text"
+        },
+        "link5": {
+          "href": "#",
+          "text": "text"
         }
       },
       "column2": {
         "link1": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
         },
         "link2": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
         },
         "link3": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
+        },
+        "link4": {
+          "href": "#",
+          "text": "text"
+        },
+        "link5": {
+          "href": "#",
+          "text": "text"
+        },
+        "link6": {
+          "href": "#",
+          "text": "text"
         }
       },
       "column3": {
         "link1": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
         },
         "link2": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
         },
         "link3": {
           "href": "#",
-          "text": "Link"
+          "text": "text"
+        },
+        "link4": {
+          "href": "#",
+          "text": "text"
+        },
+        "link5": {
+          "href": "#",
+          "text": "text"
         }
       }
     },
     "tracking": {
       "href": "#",
-      "text": "Link"
+      "text": "text"
     }
   },
 
@@ -226,7 +380,7 @@
       },
       "results": {
         "envelope": {
-          "totalStamps": "Own image.",
+          "totalStamps": "Own envelope.",
           "costPerItem": "Cost: UAH {{params}}."
         },
         "postcard": {
@@ -234,31 +388,31 @@
           "costPerItem": "Cost: UAH {{params}}."
         },
         "stamps6": {
-          "totalStamps": "In the sheet: 6 images.",
+          "totalStamps": "In the sheet: 6 attachments.",
           "costPerItem": "Cost: UAH {{params}}."
         },
         "stamps9": {
-          "totalStamps": "In the sheet: 9 images.",
+          "totalStamps": "In the sheet: 9 attachments.",
           "costPerItem": "Cost: UAH {{params}}."
         },
         "stamps28": {
-          "totalStamps": "In the sheet: 28 images.",
+          "totalStamps": "In the sheet: 28 attachments.",
           "costPerItem": "Cost: UAH {{params}}."
         },
         "stamps28Difference": {
-          "totalStamps": "In the sheet: 28 images.",
+          "totalStamps": "In the sheet: 28 attachments.",
           "costPerItem": "Cost: UAH {{params}}."
         }
       }
     },
     "step2": {
-      "checkbox": "I confirm my responsibility for the provided image in accordance with the legislation of Ukraine.",
+      "checkbox": "I confirm my responsibility for the provided image in accordance with the legislation of Ukraine, including the infringement of copyright and related rights.",
       "extension": "Expansion: 300 dpi (dots per inch).",
       "format": "File format: doc, docx, rtf, txt, odt, pdf (10 Mb maximum).",
       "pageCost": "Cost of sheet",
       "results": {
         "envelope": {
-          "amount": "Number of images: {{params}}pc.",
+          "amount": "Number of envelopes: {{params}}pc.",
           "price": "Price: UAH {{params}}."
         },
         "postcard": {
@@ -295,7 +449,7 @@
       },
       "totalCost": "Total cost",
       "totalPages": "Total sheets",
-      "totalStamps": "Total images:"
+      "totalStamps": "Total attachments:"
     },
     "step3": {
       "title": {
@@ -313,35 +467,35 @@
 
   "templates": [
     {
-      "title": "Sheet of 6 images",
-      "papers": "In the sheet: 6 images",
+      "title": "Sheet of 6 attachments",
+      "papers": "In the sheet: 6 attachments",
       "priceSingle": "Cost: UAH 9.00",
       "priceTotal": "UAH 240"
     },
     {
-      "title": "Sheet of 9 images",
-      "papers": "In the sheet: 9 images",
+      "title": "Sheet of 9 attachments",
+      "papers": "In the sheet: 9 attachments",
       "priceSingle": "Cost: UAH 9.00",
       "priceTotal": "UAH 240"
     },
     {
-      "title": "Sheet of 28 images (one image)",
-      "papers": "In the sheet: 28 images",
+      "title": "Sheet of 28 attachments (one image)",
+      "papers": "In the sheet: 28 attachments",
       "priceSingle": "Cost: UAH 9.00",
       "priceTotal": "UAH 408"
     },
     {
-      "title": "Sheet of 28 images (various images)",
-      "papers": "In the sheet: 28 images",
+      "title": "Sheet of 28 attachments (various images)",
+      "papers": "In the sheet: 28 attachments",
       "priceSingle": "Cost: UAH 9.00",
       "priceTotal": "UAH 510"
     },
     {
-      "title": "Own image",
+      "title": "Own envelope",
       "priceTotal": "UAH 15"
     },
     {
-      "title": "Own image",
+      "title": "Own envelope",
       "priceTotal": "UAH 15"
     },
     {
@@ -360,68 +514,68 @@
     "column1": {
       "title": "General information",
       "items": [
-        "About Ukrposhta",
-        "Supervisory board",
-        "Management",
-        "Regional branches",
-        "Public information",
-        "Procurement",
-        "Sale and rental of real estate",
-        "Anti-corruption",
-        "Privacy policy",
-        "For media",
-        "News",
-        "Promotions",
-        "Contact center"
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text"
       ]
     },
 
     "column2": {
       "title": "Postal services",
       "items": [
-        "Ukrposhta Express",
-        "Ukrposhta Standard",
-        "Ukrposhta Documents",
-        "Shipping outside Ukraine",
-        "Shipping to Ukraine",
-        "Shipments over 30 kg",
-        "Courier delivery",
-        "Cost calculation",
-        "Issuance through parcel lockers"
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text"
       ]
     },
 
     "column3": {
       "title": "Financial services",
       "items": [
-        "“From card to home” money transfer",
-        "“From card to post office” money transfer",
-        "Money transfers from card to card",
-        "Instant money transfers from Europe",
-        "International postal money transfers",
-        "Domestic postal money transfer",
-        "Online payments",
-        "Payments",
-        "Insurance services"
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text"
       ]
     },
 
     "column4": {
       "title": "Other",
       "items": [
-        "Online services",
-        "Subscription to magazines and newspapers",
-        "Online shop",
-        "Personalized images",
-        "Periodicals",
-        "For publishers",
-        "Hybrid mail",
-        "Mail for the blind",
-        "Find a post code",
-        "Find an address",
-        "Find a post office",
-        "Background information",
-        "API documentation"
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text"
       ]
     }
 
@@ -440,7 +594,7 @@
       "name": "Name",
       "patronymic": "Patronymic",
       "region": "Region",
-      "registeredLetter": "Letter",
+      "registeredLetter": "Registered letter",
       "selfPickup": "Self-pickup",
       "street": "Street",
       "surname": "Surname"
